@@ -216,7 +216,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 For questions, suggestions, or collaboration:
 
 - **Name**: Dmitriy Abaimov  / DCBOT
-- **GitHub**: [your-username](https://github.com/elabz)
+- **GitHub**: [elabz](https://github.com/elabz)
 
 Feel free to open an [issue](https://github.com/elabz/dcbot/issues) for any bugs or feature requests.
 
